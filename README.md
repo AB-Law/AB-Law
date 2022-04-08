@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab-law&label=Profile%20views&color=0e75b6&style=flat" alt="ab-law" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ab-law" alt="ab-law" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shaylaw_holmes" target="blank"><img src="https://img.shields.io/twitter/follow/shaylaw_holmes?logo=twitter&style=for-the-badge" alt="shaylaw_holmes" /></a> </p>
 
