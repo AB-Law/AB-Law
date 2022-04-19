@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab-law&label=Profile%20views&color=0e75b6&style=flat" alt="ab-law" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/shaylaw_holmes" target="blank"><img src="https://img.shields.io/twitter/follow/shaylaw_holmes?logo=twitter&style=for-the-badge" alt="shaylaw_holmes" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shaylawk_holmes" target="blank"><img src="https://img.shields.io/twitter/follow/shaylaw_holmes?logo=twitter&style=for-the-badge" alt="shaylaw_holmes" /></a> </p>
 
 - 🔭 I’m currently working on [Project-FileSystem-UE19CS336](https://github.com/AB-Law/Project-FileSystem-UE19CS336)
 
