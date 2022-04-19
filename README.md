@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with [Apple-Music-Discord-Rich-Presence](https://github.com/AB-Law/Apple-Music-Discord-Rich-Presence)
 
-- 📫 How to reach me **akshay200012@gmail.com**
+- 📫 How to reach me **akshay200012@gmail.com** or **shay@thelifeofakshay.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
