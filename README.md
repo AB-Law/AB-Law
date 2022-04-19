@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Project-FileSystem-UE19CS336](https://github.com/AB-Law/Project-FileSystem-UE19CS336)
 
-- 🌱 I’m currently learning **about security concepts on TryHackMe**
+- 🌱 I’m currently learning **security concepts on TryHackMe**
 
 - 🤝 I’m looking for help with [Apple-Music-Discord-Rich-Presence](https://github.com/AB-Law/Apple-Music-Discord-Rich-Presence)
 
