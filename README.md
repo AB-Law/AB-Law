@@ -1,16 +1,14 @@
 <h1 align="center">Hey there, I'm Akshay</h1>
-<h3 align="center">A passionate student wanting to learn more about Cyber Security</h3>
+<h3 align="center">A passionate student wanting to develop something useful</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab-law&label=Profile%20views&color=0e75b6&style=flat" alt="ab-law" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/shaylawk_holmes" target="blank"><img src="https://img.shields.io/twitter/follow/shaylawk_holmes?logo=twitter&style=for-the-badge" alt="shaylawk_holmes" /></a> </p>
 
-- 🔭 I’m currently working on [Project-FileSystem-UE19CS336](https://github.com/AB-Law/Project-FileSystem-UE19CS336)
+- 🔭 I’m currently working on [AgnosticRAG]([https://github.com/AB-Law/Project-FileSystem-UE19CS336](https://github.com/AB-Law/rag))
 
-- 🌱 I’m currently learning **security concepts on TryHackMe**
-
-- 🤝 I’m looking for help with [Apple-Music-Discord-Rich-Presence](https://github.com/AB-Law/Apple-Music-Discord-Rich-Presence)
+- 🤝 I’m looking for help with [AgnosticRAG]([https://github.com/AB-Law/Project-FileSystem-UE19CS336](https://github.com/AB-Law/rag))
 
 - 📫 How to reach me **akshay200012@gmail.com** or **shay@thelifeofakshay.com**
 
