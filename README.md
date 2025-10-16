@@ -6,11 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/shaylawk_holmes" target="blank"><img src="https://img.shields.io/twitter/follow/shaylawk_holmes?logo=twitter&style=for-the-badge" alt="shaylawk_holmes" /></a> </p>
 
-- 🔭 I’m currently working on [AgnosticRAG]([https://github.com/AB-Law/Project-FileSystem-UE19CS336](https://github.com/AB-Law/rag))
 
-- 🤝 I’m looking for help with [AgnosticRAG]([https://github.com/AB-Law/Project-FileSystem-UE19CS336](https://github.com/AB-Law/rag))
-
-- 📫 How to reach me **akshay200012@gmail.com** or **shay@thelifeofakshay.com**
+- 📫 How to reach me **akshay.law35@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
