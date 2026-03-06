@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Akshay</h1>
-<h3 align="center">A passionate student wanting to develop something useful</h3>
+<h3 align="center">I want to develop something that's useful for people</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab-law&label=Profile%20views&color=0e75b6&style=flat" alt="ab-law" /> </p>
 
