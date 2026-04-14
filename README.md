@@ -1,11 +1,30 @@
-<h1 align="center">Hey there, I'm Akshay</h1>
-<h3 align="center">I want to develop something that's useful for people</h3>
+Backend & AI engineer based in Bangalore. I build distributed systems, LLM-powered products, and the occasional thing that ships to production and actually stays there.
 
+---
+
+## Projects
+
+**[Pluck-It](https://pluckit.omakashay.com)** — Digital wardrobe with an AI pipeline for outfit management. .NET 10 Clean Architecture backend, Angular 19 frontend, LangGraph ReAct agent with SSE, BiRefNet background removal on Modal.com, Terraform IaC, Cosmos DB + Blob Storage. Companion iOS/macOS app with on-device Core ML segmentation and virtual try-on. Five CI/CD pipelines. [github.com/AB-Law/Pluck-It](https://github.com/AB-Law/Pluck-It)
+
+**[Omni-Sight](https://github.com/AB-Law/Omnisight)** — OSINT platform using Pinecone vector search, GCP Pub/Sub, and knowledge graphs. In progress.
+
+**Meridian** — Personal knowledge base with an LLM-powered markdown wiki, LangGraph Q&A agent, and a distributed architecture across local hardware (Mac + PC via LM Studio + Raspberry Pi with SearxNG).
+
+---
+
+## Stack
+
+**Backend** — .NET (C#), Python, FastAPI, Orleans, SignalR  
+**AI / ML** — LangChain, LangGraph, RAG pipelines, Claude API, LiteLLM, Core ML  
+**Cloud & Infra** — Azure (Functions, Cosmos DB, Blob Storage), Docker, Terraform, GitHub Actions  
+**Databases** — PostgreSQL, Cosmos DB, SQLite, Pinecone, MySQL 
+**Frontend** — React, TypeScript, Angular, Vite, Tailwind  
+**Other** — GCP Pub/Sub, Celery, Redis, Modal.com
+
+---
+
+## Links
+
+Portfolio → [omakashay.com](https://omakashay.com)  
+LinkedIn → [linkedin.com/in/akshay-biju-](https://www.linkedin.com/in/akshay-biju-)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab-law&label=Profile%20views&color=0e75b6&style=flat" alt="ab-law" /> </p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-law&show_icons=true&locale=en&layout=compact" alt="ab-law" /></p>
