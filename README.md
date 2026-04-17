@@ -4,7 +4,7 @@ Backend & AI engineer based in Bangalore. I build distributed systems, LLM-power
 
 ## Projects
 
-**[Pluck-It](https://pluckit.omakashay.com)** — Digital wardrobe with an AI pipeline for outfit management. .NET 10 Clean Architecture backend, Angular 19 frontend, LangGraph ReAct agent with SSE, BiRefNet background removal on Modal.com, Terraform IaC, Cosmos DB + Blob Storage. Companion iOS/macOS app with on-device Core ML segmentation and virtual try-on. Five CI/CD pipelines. [github.com/AB-Law/Pluck-It](https://github.com/AB-Law/Pluck-It)
+**[Pluck-It](https://pluckit.omakashay.com)** — Digital wardrobe with an AI pipeline for outfit management. .NET 10 Clean Architecture backend, Angular 19 frontend, LangGraph ReAct agent with SSE, BiRefNet background removal on Modal.com, Terraform IaC, Cosmos DB + Blob Storage. Companion iOS/macOS app with on-device Core ML segmentation and virtual try-on. [github.com/AB-Law/Pluck-It](https://github.com/AB-Law/Pluck-It)
 
 **[Omni-Sight](https://github.com/AB-Law/Omnisight)** — OSINT platform using Pinecone vector search, GCP Pub/Sub, and knowledge graphs. In progress.
 
